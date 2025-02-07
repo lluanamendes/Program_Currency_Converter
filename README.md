@@ -41,18 +41,11 @@ Total a pagar = 530.00 BRL
     
 <h2>Tecnologias Utilizadas</h2>
     <ul>
-        <li>Linguagem: Python</li>
+        <li>Linguagem: Java</li>
         <li>Paradigma: Programação Orientada a Objetos (POO) com uso de membros estáticos</li>
     </ul>
+--------------------- 
     
-<h2>Como Executar o Programa</h2>
-    <ol>
-        <li>Certifique-se de ter o Python instalado em seu sistema.</li>
-        <li>Salve o código em um arquivo <code>currency_converter.py</code>.</li>
-        <li>Execute o programa no terminal ou em um ambiente Python interativo.</li>
-    </ol>
-    
-<h2>Autor</h2>
-<p>Projeto desenvolvido para fins educativos, abordando conceitos de classes, membros estáticos e conversão de moeda em Python.</p>
+<h2>Exercicio do curso do Prof. Dr. Nelio Alves, Java Completo. O desenvolvimento foi feito com base nas aulas do curso sem o uso de IAs para exercitar o pensamento lógico</h2>
 
 
